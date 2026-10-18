@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TNWXJBFB
 
 [Document3]
-DocumentPath=Lab4_Altium_Files1.SCHLIB
+DocumentPath=Lab4_Altium_Files.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -98,7 +98,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VYLCDLHI
+DocumentUniqueId=FBNCHHUX
 
 [Configuration1]
 Name=Sources
