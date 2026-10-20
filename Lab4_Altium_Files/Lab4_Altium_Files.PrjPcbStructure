@@ -1,2 +1,8 @@
-Record=TopLevelDocument|FileName=Sheet1.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Sheet1.SchDoc|FileName=Sheet2.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=Top_Board.SchDoc|SheetNumber=2
+Record=SheetSymbol|SourceDocument=Top_Board.SchDoc|Designator=U_Interfaces|SchDesignator=U_Interfaces|FileName=Interfaces.SchDoc|SheetNumber=8|SymbolType=Normal|RawFileName=Interfaces.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Board.SchDoc|Designator=U_Memory|SchDesignator=U_Memory|FileName=Memory.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Memory.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Board.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Board.SchDoc|Designator=U_S_Band|SchDesignator=U_S_Band|FileName=S_Band.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=S_Band.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Board.SchDoc|Designator=U_Soc_SmartFusion2|SchDesignator=U_Soc_SmartFusion2|FileName=Soc_SmartFusion2.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Soc_SmartFusion2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Board.SchDoc|Designator=U_UHF|SchDesignator=U_UHF|FileName=UHF.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=UHF.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Top_Board.SchDoc|FileName=Borrador_All_Components.SchDoc|SheetNumber=1
