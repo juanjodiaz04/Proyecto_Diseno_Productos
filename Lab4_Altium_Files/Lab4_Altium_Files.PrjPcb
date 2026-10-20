@@ -186,7 +186,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XDMGLYVR
 
 [Document9]
-DocumentPath=Lab4_Altium_Files_2.SCHLIB
+DocumentPath=Lab4_Altium_Files.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
