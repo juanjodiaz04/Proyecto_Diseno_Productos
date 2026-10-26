@@ -5,7 +5,9 @@ Diseño electrónico de un nanosatélite académico tipo CubeSat 1U cuya misión
 - **Autores:** Juan José Díaz, Kevin Echeverri
 - **Institución:** Universidad de Antioquia
 - **Curso:** Diseño de Productos Electrónicos
-- **Documento fuente:** `Proyecto_Diseño_E1.pdf` (requisitos, especificaciones y arquitectura electrónica)
+- **Documentos fuente:**
+  - `Proyecto_Diseño_E1.pdf` (Requisitos, especificaciones y arquitectura electrónica general)
+  - `Proyecto_Diseño_E2.pdf` (Especificación, desarrollo detallado de la tarjeta OBC + COMMS y diseño en Altium Designer v24.0)
 
 La información obtenida está orientada a análisis experimentales sobre la distribución y el estado relativo de la vegetación en lotes cafeteros. No pretende identificar plantas individuales, diagnosticar enfermedades ni generar recomendaciones agronómicas.
 
