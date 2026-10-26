@@ -186,7 +186,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XDMGLYVR
 
 [Document9]
-DocumentPath=Lab4_Altium_Files.SCHLIB
+DocumentPath=Lab4_Altium_Files_1.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -200,7 +200,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VRBGVLVS
+DocumentUniqueId=ZGDPPVUC
 
 [Configuration1]
 Name=Sources
@@ -1146,8 +1146,6 @@ Type162=1
 Type163=1
 Type164=1
 Type165=2
-Type166=2
-Type167=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
