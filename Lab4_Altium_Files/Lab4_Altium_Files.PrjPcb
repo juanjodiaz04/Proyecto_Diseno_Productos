@@ -36,7 +36,10 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=44B75FD7-6CB6-4DCB-B1FE-B96C0B1D78AC
+VaultGUID=3DE48CC5-0BB1-42CF-BE94-974DA0688E6D
+ReleaseVaultName=UdeA
+ItemGUID=44B75FD7-6CB6-4DCB-B1FE-B96C0B1D78AC
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -254,23 +257,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BXBZKCSW
 
 [Document13]
-DocumentPath=Lab4_Altium_Files_1.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NMIUTBCW
-
-[Document14]
 DocumentPath=Mem_IS43TR16256A.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +273,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OZRGSHQI
 
-[Document15]
+[Document14]
 DocumentPath=Mem_IS43TR16256A.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +290,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=MR4A16BCYS35R.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +307,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=Soc_SmartFusion2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,6 +323,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document17]
+DocumentPath=Lab4_Altium_Files.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NHSNAUTA
 
 [Configuration1]
 Name=Sources
